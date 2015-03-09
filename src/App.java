@@ -1,5 +1,6 @@
 /**
- * Created by jc219581 on 9/03/15.
+ * Text viewer App - prints the contents of a string to the console.
+ * Created by Marc Nablu on 9/03/15.
  */
 public class App {
     public static void main(String[] args) {
